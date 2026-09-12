@@ -103,8 +103,8 @@ git_Assignment/
 │   ├── Assignment_5
 │   └── Assignment_6
 ├── README.md
-└── assets/
-    └── git-assignment-sticker.svg
+
+
 ```
 
 ## Sticker / Brand Concept
