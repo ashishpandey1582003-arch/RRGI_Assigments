@@ -1,29 +1,28 @@
+🚀📊 RRGI DATA ANALYTICS ASSIGNMENTS 💻✨
 
-# 🚀📊 RRGI DATA ANALYTICS ASSIGNMENTS 💻✨
+🎯 A HANDS-ON COLLECTION OF DATA ANALYTICS ASSIGNMENTS AND PRACTICAL PROJECTS USING PYTHON, PANDAS, NUMPY, SQL & MACHINE LEARNING.
 
-> **🎯 A HANDS-ON COLLECTION OF DATA ANALYTICS ASSIGNMENTS AND PRACTICAL PROJECTS USING PYTHON, PANDAS, NUMPY, SQL & MACHINE LEARNING.**
 
----
 
-## 📚 ABOUT THIS REPOSITORY
-This repository contains my **RRGI DATA ANALYTICS ASSIGNMENTS AND PRACTICAL PROJECTS**. 
-It includes assignments based on Python, Data Analysis, Pandas, NumPy, SQL, and Machine Learning.
+
+
+
+
+📚 ABOUT THIS REPOSITORY
+
+This repository contains my RRGI DATA ANALYTICS ASSIGNMENTS AND PRACTICAL PROJECTS.
+
+It includes assignments based on PYTHON, PANDAS, NUMPY, SQL, DATA ANALYSIS, AND MACHINE LEARNING.
 
 The main purpose of this repository is to practice programming, data analysis, database concepts, and machine learning through practical assignments.
 
----
-
-## 🛠️ TECHNOLOGIES USED
-* 🐍 **PYTHON**
-* 🐼 **PANDAS**
-* 🔢 **NUMPY**
-* 🗄️ **SQL**
-* 🤖 **MACHINE LEARNING**
-
----
-
-## 📂 REPOSITORY STRUCTURE
-```text
+🛠️ TECHNOLOGIES USED
+🐍 PYTHON
+🐼 PANDAS
+🔢 NUMPY
+🗄️ SQL
+🤖 MACHINE LEARNING
+📂 REPOSITORY STRUCTURE
 RRGI_Assigments/
 │
 ├── 📁 SQL/
@@ -33,6 +32,7 @@ RRGI_Assigments/
 ├── 🐍 Assignment_3.py
 ├── 🐍 Assignment_4.py
 │
+└── 📄 README.md
 
 🎯 LEARNING OBJECTIVES
 📊 DATA ANALYSIS
@@ -53,65 +53,65 @@ cd RRGI_Assigments
 3️⃣ RUN A PYTHON ASSIGNMENT
 python Assignment_1.py
 
+
 You can replace Assignment_1.py with any other assignment file.
 
 📖 TOPICS COVERED
 🐍 PYTHON
-Python Basics
-Variables & Data Types
-Conditional Statements
-Loops
-Functions
-Lists & Dictionaries
-File Handling
+PYTHON BASICS
+VARIABLES & DATA TYPES
+CONDITIONAL STATEMENTS
+LOOPS
+FUNCTIONS
+LISTS & DICTIONARIES
+FILE HANDLING
 🐼 PANDAS
-DataFrames
-Series
-Data Cleaning
-Data Filtering
-Data Selection
-Data Aggregation
-Data Analysis
+DATAFRAMES
+SERIES
+DATA CLEANING
+DATA FILTERING
+DATA SELECTION
+DATA AGGREGATION
+DATA ANALYSIS
 🔢 NUMPY
-Arrays
-Array Operations
-Mathematical Operations
-Indexing & Slicing
-Numerical Computation
+ARRAYS
+ARRAY OPERATIONS
+MATHEMATICAL OPERATIONS
+INDEXING & SLICING
+NUMERICAL COMPUTATION
 🗄️ SQL
-SELECT Queries
-WHERE Conditions
+SELECT QUERIES
+WHERE CONDITIONS
 ORDER BY
 GROUP BY
-Aggregate Functions
+AGGREGATE FUNCTIONS
 JOINS
-Database Queries
+DATABASE QUERIES
 🤖 MACHINE LEARNING
-Machine Learning Basics
-Data Preprocessing
-Feature Selection
-Model Training
-Model Evaluation
-Practical ML Concepts
+MACHINE LEARNING BASICS
+DATA PREPROCESSING
+FEATURE SELECTION
+MODEL TRAINING
+MODEL EVALUATION
+PRACTICAL ML CONCEPTS
 📈 PROJECT GOALS
+
 The goal of this repository is to build a strong foundation in DATA ANALYTICS AND MACHINE LEARNING through continuous practice and practical assignments.
 
 💡 LEARN → PRACTICE → BUILD → IMPROVE 🚀
 
 👨‍💻 AUTHOR
-ASHISH PANDEY
+👑 ASHISH KUMAR PANDEY
+
 🎓 DATA ANALYTICS & MACHINE LEARNING ENTHUSIAST
 
-🐙 GitHub: @ashishpandey1582003-arch
+🐙 GITHUB: @ashishpandey1582003-arch
 
 ⭐ SUPPORT
+
 If you find this repository useful:
 
 ⭐ GIVE THIS REPOSITORY A STAR
-
 🍴 FORK THE REPOSITORY
-
 💡 FEEL FREE TO EXPLORE AND LEARN
-
 🚀 HAPPY LEARNING & HAPPY CODING! 🐍📊🤖
-└── 📄 README.md
