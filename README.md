@@ -42,7 +42,7 @@ This repository contains a collection of practical assignments focused on:
 - JSON
 - SQL
 
-## Learning Goals
+## 🎯 Learning Goals
 
 - Understand data handling with Python
 - Perform statistical analysis on real datasets
