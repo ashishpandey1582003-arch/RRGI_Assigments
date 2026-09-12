@@ -1,123 +1,78 @@
 <p align="center">
-  <img src="assets/git-assignment-sticker.svg" alt="GIT ASSIGNMENT Sticker" width="320" />
+  <img src="assets/rrgi-assignments-sticker.svg" alt="RRGI Assignments Sticker" width="420" />
 </p>
 
-# GIT ASSIGNMENT
+# RRGI ASSIGNMENTS
 
-A practical learning project focused on Python, data analysis, statistics, and SQL-based assignments. This repository contains hands-on work covering student performance analysis, dataset exploration, visualization, and database-related tasks.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" />
+</p>
 
-## Project Idea
+My Data Analytics projects using Python, Pandas, NumPy, SQL, and Machine Learning.
 
-The main goal of this project is to build a strong foundation in:
+## Overview
+
+This repository contains a collection of practical assignments focused on:
 
 - Python programming
-- Data handling with Pandas and NumPy
-- Data visualization with Matplotlib
-- Statistical analysis
-- Student records and performance tracking
-- SQL problem-solving and database queries
+- Data analysis and statistics
+- Pandas and NumPy operations
+- Data visualization
+- SQL practice and database tasks
+- Basic machine learning exposure
 
-## Repository Overview
-
-This project includes multiple assignment files and SQL exercises:
+## Project Files
 
 - Assignment_1.py — Student marks analysis using NumPy and Pandas
-- Assignment_2.py — Education dataset analysis and comparative charts
-- Assignment_3.py — Semester-wise performance tracking and academic trends
+- Assignment_2.py — Education dataset analysis and comparison graphs
+- Assignment_3.py — Semester-wise performance tracking and insights
 - Assignment_4.py — Student management system using JSON storage
-- SQL/Assignment_5 — SQL tasks and database-related solutions
-- SQL/Assignment_6 — Additional SQL-based exercises
-
-## Main Highlights
-
-### 1. Student Performance Analysis
-- Calculation of total and average marks
-- Highest and lowest scores
-- Pass/fail status
-- Grade evaluation
-- Summary tables and insights
-
-### 2. Education Data Insights
-- District-wise school and student analysis
-- Gender distribution comparison
-- Class X and Class XII pass percentage analysis
-- Correlation studies
-- Visualization of performance trends
-
-### 3. Academic Progress Monitoring
-- Semester-wise marking analysis
-- Subject-wise averages
-- Best and worst semesters
-- Performance comparison against class average
-
-### 4. SQL Practice
-- Structured query problem solving
-- Data retrieval and filtering
-- Aggregation and analytics using SQL logic
+- SQL/ — SQL assignment folder with database-related tasks
 
 ## Tech Stack
 
 - Python
-- NumPy
 - Pandas
+- NumPy
 - Matplotlib
 - JSON
 - SQL
 
+## Learning Goals
+
+- Understand data handling with Python
+- Perform statistical analysis on real datasets
+- Create visual reports and charts
+- Solve SQL-based queries and database tasks
+- Build a strong foundation for analytics and machine learning
+
 ## How to Run
 
-Open the project folder and run the Python files individually:
+Open the project folder and run any Python file directly:
 
-1. Go to the repository folder
-2. Open a terminal or command prompt
-3. Run a script such as:
+```bash
+python Assignment_1.py
+```
 
-   python Assignment_1.py
+You can run other assignments similarly depending on the task.
 
-You can also run other assignment files in the same way depending on the task.
-
-## Example Output
-
-The project produces:
-
-- Printed data summaries
-- Statistical calculations
-- Performance tables
-- Graphs and chart visualizations
-- SQL query outcomes
-
-## Learning Outcome
-
-This repository demonstrates practical application of data analysis and programming concepts in an academic setting. It helps connect theory with real-world problem solving, especially in analytics and database-related work.
-
-## Folder Structure
+## Repository Structure
 
 ```text
-git_Assignment/
+RRGI_Assigments/
 ├── Assignment_1.py
 ├── Assignment_2.py
 ├── Assignment_3.py
 ├── Assignment_4.py
-├── students.json
 ├── SQL/
-│   ├── Assignment_5
-│   └── Assignment_6
 ├── README.md
-
 
 ```
 
-## Sticker / Brand Concept
-
-The project identity is designed to feel like a modern data and learning brand:
-
-- Blue and purple tones for technical and analytical energy
-- Chart and grid elements for data-driven work
-- Clean rounded styling to give a neat sticker feel
-- Small academic theme to reflect assignments and learning progress
-
 ## Conclusion
 
-This repository is a complete mini project for learning Python-based analytics, dashboard-style summaries, and SQL practice. It is an ideal example of academic work turned into a structured and presentable portfolio project.
-
-Made with focus on learning, analysis, and clean presentation.
+This repository reflects a practical learning journey in data analytics and problem solving, combining coding, statistics, visualization, and SQL in one project set.
