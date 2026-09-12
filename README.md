@@ -27,13 +27,15 @@ This repository contains a collection of practical assignments focused on:
 
 ## 📂 Project Files
 
-- Assignment_1.py — Student marks analysis using NumPy and Pandas
-- Assignment_2.py — Education dataset analysis and comparison graphs
-- Assignment_3.py — Semester-wise performance tracking and insights
-- Assignment_4.py — Student management system using JSON storage
--- SQL/ — SQL assignment folder
-  - Assignment_5 — [ Basic SQL queries]
-  - Assignment_6 — [ Joins and Subqueries]
+RRGI_Assigments/
+├── Assignment_1.py
+├── Assignment_2.py
+├── Assignment_3.py
+├── Assignment_4.py
+├── SQL/
+│   ├── Assignment_5    # MySQL Employees Table Queries
+│   └── Assignment_6    # Banking MySQL Project (28 Queries)
+└── README.md
 ## 💻 Tech Stack
 
 - Python
