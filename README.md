@@ -25,9 +25,7 @@ This repository contains a collection of practical assignments focused on:
 - SQL practice and database tasks
 - Basic machine learning exposure
 
-## 📂 Project Files
 
-RRGI_Assigments/
 ## 📂 Project Files
 
 - `Assignment_1.py` — Student Performance Analysis
