@@ -14,7 +14,7 @@
 
 My Data Analytics projects using Python, Pandas, NumPy, SQL, and Machine Learning.
 
-## Overview
+## 📖 Overview
 
 This repository contains a collection of practical assignments focused on:
 
@@ -25,7 +25,7 @@ This repository contains a collection of practical assignments focused on:
 - SQL practice and database tasks
 - Basic machine learning exposure
 
-## Project Files
+## 📂 Project Files
 
 - Assignment_1.py — Student marks analysis using NumPy and Pandas
 - Assignment_2.py — Education dataset analysis and comparison graphs
@@ -33,7 +33,7 @@ This repository contains a collection of practical assignments focused on:
 - Assignment_4.py — Student management system using JSON storage
 - SQL/ — SQL assignment folder with database-related tasks
 
-## Tech Stack
+## 💻 Tech Stack
 
 - Python
 - Pandas
@@ -50,7 +50,7 @@ This repository contains a collection of practical assignments focused on:
 - Solve SQL-based queries and database tasks
 - Build a strong foundation for analytics and machine learning
 
-## How to Run
+## 🚀 How to Run
 
 Open the project folder and run any Python file directly:
 
@@ -60,7 +60,7 @@ python Assignment_1.py
 
 You can run other assignments similarly depending on the task.
 
-## Repository Structure
+## 🏗️ Repository Structure
 
 ```text
 RRGI_Assigments/
@@ -73,6 +73,6 @@ RRGI_Assigments/
 
 ```
 
-## Conclusion
+## ✨ Conclusion
 
 This repository reflects a practical learning journey in data analytics and problem solving, combining coding, statistics, visualization, and SQL in one project set.
