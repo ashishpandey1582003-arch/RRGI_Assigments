@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rrgi-assignments-sticker.svg" alt="RRGI Assignments Sticker" width="420" />
+  
 </p>
 
 # RRGI ASSIGNMENTS
