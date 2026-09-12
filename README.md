@@ -64,14 +64,15 @@ You can run other assignments similarly depending on the task.
 ## 🏗️ Repository Structure
 
 ```text
+
 RRGI_Assigments/
 ├── Assignment_1.py
 ├── Assignment_2.py
 ├── Assignment_3.py
 ├── Assignment_4.py
 ├── SQL/
-│   ├── Assignment_5/
-│   └── Assignment_6/
+│   ├── Assignment_5    # MySQL Employees Table Queries
+│   └── Assignment_6    # Banking MySQL Project (28 Queries)
 └── README.md
 
 ```
