@@ -31,8 +31,9 @@ This repository contains a collection of practical assignments focused on:
 - Assignment_2.py — Education dataset analysis and comparison graphs
 - Assignment_3.py — Semester-wise performance tracking and insights
 - Assignment_4.py — Student management system using JSON storage
-- SQL/ — SQL assignment folder with database-related tasks
-
+-- SQL/ — SQL assignment folder
+  - Assignment_5 — [ Basic SQL queries]
+  - Assignment_6 — [ Joins and Subqueries]
 ## 💻 Tech Stack
 
 - Python
@@ -69,7 +70,9 @@ RRGI_Assigments/
 ├── Assignment_3.py
 ├── Assignment_4.py
 ├── SQL/
-├── README.md
+│   ├── Assignment_5/
+│   └── Assignment_6/
+└── README.md
 
 ```
 
