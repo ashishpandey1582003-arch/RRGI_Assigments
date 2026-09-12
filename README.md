@@ -28,14 +28,15 @@ This repository contains a collection of practical assignments focused on:
 ## 📂 Project Files
 
 RRGI_Assigments/
-├── Assignment_1.py
-├── Assignment_2.py
-├── Assignment_3.py
-├── Assignment_4.py
-├── SQL/
-│   ├── Assignment_5    # MySQL Employees Table Queries
-│   └── Assignment_6    # Banking MySQL Project (28 Queries)
-└── README.md
+## 📂 Project Files
+
+- `Assignment_1.py` — Student Performance Analysis
+- `Assignment_2.py` — Student Performance Analysis (Extended)
+- `Assignment_3.py` — Semester Performance Analysis
+- `Assignment_4.py` — Student Management System
+- **SQL/** — SQL assignments folder containing database tasks
+  - `Assignment_5` — MySQL: Queries on Employees Table (CRUD, Filtering, GROUP BY, Aggregations).
+  - `Assignment_6` — MySQL: Banking Project with 28 Queries (Advanced Joins, Subqueries, Window Functions).
 ## 💻 Tech Stack
 
 - Python
