@@ -1,7 +1,3 @@
-<p align="center">
-  
-</p>
-
 # RRGI ASSIGNMENTS
 
 <p align="center">
@@ -14,7 +10,7 @@
 
 My Data Analytics projects using Python, Pandas, NumPy, SQL, and Machine Learning.
 
-## 📖 Overview
+## Overview
 
 This repository contains a collection of practical assignments focused on:
 
@@ -25,17 +21,18 @@ This repository contains a collection of practical assignments focused on:
 - SQL practice and database tasks
 - Basic machine learning exposure
 
+## Project Files
 
-## 📂 Project Files
+- Assignment_1.py — Student marks analysis using NumPy and Pandas
+- Assignment_2.py — Education dataset analysis and comparison graphs
+- Assignment_3.py — Semester-wise performance tracking and insights
+- Assignment_4.py — Student management system using JSON storage
+- Assignment_7.py — Power BI HR dashboard assignment
+- Assignment_8/ — Used car price prediction project, including data analysis, model training, and an app
+- Assignment_9/ — Semantic search project with document loading, chunking, embeddings, and search
+- SQL/ — SQL assignments for employee queries and a banking project
 
-- `Assignment_1.py` — Student Performance Analysis
-- `Assignment_2.py` — Student Performance Analysis (Extended)
-- `Assignment_3.py` — Semester Performance Analysis
-- `Assignment_4.py` — Student Management System
-- **SQL/** — SQL assignments folder containing database tasks
-  - `Assignment_5` — MySQL: Queries on Employees Table (CRUD, Filtering, GROUP BY, Aggregations).
-  - `Assignment_6` — MySQL: Banking Project with 28 Queries (Advanced Joins, Subqueries, Window Functions).
-## 💻 Tech Stack
+## Tech Stack
 
 - Python
 - Pandas
@@ -43,8 +40,10 @@ This repository contains a collection of practical assignments focused on:
 - Matplotlib
 - JSON
 - SQL
+- Power BI
+- Machine learning and semantic search
 
-## 🎯 Learning Goals
+## Learning Goals
 
 - Understand data handling with Python
 - Perform statistical analysis on real datasets
@@ -52,7 +51,7 @@ This repository contains a collection of practical assignments focused on:
 - Solve SQL-based queries and database tasks
 - Build a strong foundation for analytics and machine learning
 
-## 🚀 How to Run
+## How to Run
 
 Open the project folder and run any Python file directly:
 
@@ -62,22 +61,32 @@ python Assignment_1.py
 
 You can run other assignments similarly depending on the task.
 
-## 🏗️ Repository Structure
+## Repository Structure
 
 ```text
-
 RRGI_Assigments/
 ├── Assignment_1.py
 ├── Assignment_2.py
 ├── Assignment_3.py
 ├── Assignment_4.py
+├── Assignment_7.py
+├── Assignment_8/
+│   ├── app.py
+│   ├── Train_model.py
+│   ├── EDA.py
+│   └── car price datasets
+├── Assignment_9/
+│   ├── chunking.py
+│   ├── Document_loader.py
+│   ├── Embedding.py
+│   ├── Search.py
+│   └── documents/
 ├── SQL/
-│   ├── Assignment_5    # MySQL Employees Table Queries
-│   └── Assignment_6    # Banking MySQL Project (28 Queries)
+│   ├── Assignment_5
+│   └── Assignment_6
 └── README.md
-
 ```
 
-## ✨ Conclusion
+## Conclusion
 
 This repository reflects a practical learning journey in data analytics and problem solving, combining coding, statistics, visualization, and SQL in one project set.
